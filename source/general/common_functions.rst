@@ -1,5 +1,5 @@
 ##############################
-Global Functions and Constants
+全局函数和常量
 ##############################
 
 CodeIgniter uses provides a few functions and variables that are globally defined, and are available to you at any point.
